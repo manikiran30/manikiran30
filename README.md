@@ -1,8 +1,6 @@
 <!-- Animated Text Scroller -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Full+Stack+Developer;Software+Engineer;and+Cloud+Enthusiast+☁️" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Full+Stack+Developer;Software+Engineer;and+Cloud+Enthusiast+☁️" alt="Typing SVG" />
 </h1>
 
 ---
@@ -21,7 +19,7 @@ Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Softwa
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,flask,docker,aws,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,flask,docker,aws,git,linux&perline=6" alt="Tech Stack" />
 </p>
 
 ---
@@ -46,14 +44,16 @@ Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Softwa
 ### 🧠 LeetCode Profile  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/manikiran_30?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/manikiran_30)
 
+---
+
 ### 💻 GeeksforGeeks Profile  
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/manikirandp51/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
+    <img src="https://gfg-stats-card.vercel.app/api?username=manikirandp51&theme=dark&border_color=00BFFF&title_color=00BFFF&text_color=FFFFFF" alt="GeeksforGeeks Stats"/>
   </a>
 </p>
 
-📊 [Visit My GFG Profile →](https://www.geeksforgeeks.org/user/manikirandp51/)
+> 🎯 *View full profile here:* [https://www.geeksforgeeks.org/user/manikirandp51/](https://www.geeksforgeeks.org/user/manikirandp51/)
 
 ---
 
@@ -74,6 +74,7 @@ Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Softwa
 5. ![Trophy](https://github-profile-trophy.vercel.app/?username=manikiran30&theme=dracula&margin-w=10)
 6. ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manikiran30&theme=github-dark)
 7. ![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+   
 ---
 
 ⭐ *“Code. Create. Secure. Scale.”*  
