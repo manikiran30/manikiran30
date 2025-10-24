@@ -6,9 +6,6 @@
 ## 👨‍💻 About Me  
 Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Software Engineer dedicated to building scalable and secure systems.  
 
-🎓 **B.Tech in Computer Science & Engineering (2022–2026)**  
-📍 *Vardhaman College of Engineering, Hyderabad*  
-
 💡 Interests: Full Stack Development, Cloud Infrastructure, and Cybersecurity  
 ⚙️ Currently exploring **DevOps**, **AI-based automation**, and **Web Security**  
 🚀 Always learning, building, and contributing to open-source projects  
