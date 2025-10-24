@@ -63,14 +63,14 @@ Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Softwa
 
 ## ✨ GitHub Analytics & Fun Animations  
 
-1. ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manikiran30&theme=tokyonight)
-2. ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikiran30&show_icons=true&theme=radical)
-3. ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikiran30&layout=compact&theme=radical)
-4. ![Profile Views](https://komarev.com/ghpvc/?username=manikiran30&label=Profile+Views&color=brightgreen)
-5. ![Trophy](https://github-profile-trophy.vercel.app/?username=manikiran30&theme=dracula&margin-w=10)
-6. ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manikiran30&theme=github-dark)
-7. ![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-8. ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=600&lines=Building+beautiful+digital+solutions;Crafting+secure+and+scalable+apps;Exploring+cloud+and+automation)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manikiran30&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikiran30&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikiran30&layout=compact&theme=radical)
+  ![Profile Views](https://komarev.com/ghpvc/?username=manikiran30&label=Profile+Views&color=brightgreen)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=manikiran30&theme=dracula&margin-w=10)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manikiran30&theme=github-dark)
+  ![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=600&lines=Building+beautiful+digital+solutions;Crafting+secure+and+scalable+apps;Exploring+cloud+and+automation)
 
 ---
 
