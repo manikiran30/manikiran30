@@ -60,8 +60,6 @@ I'm **Manikiran Jangili**, a passionate Computer Science student and aspiring So
 6. ![Trophy](https://github-profile-trophy.vercel.app/?username=manikiran30&theme=dracula&margin-w=10)
 7. ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manikiran30&theme=github-dark)
 8. ![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-9. ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-10. ![Metrics](https://github.com/metrics-lecoq/metrics/blob/master/github-metrics.svg)
 
 ---
 
