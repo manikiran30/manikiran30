@@ -1,3 +1,10 @@
+<!-- Hi Welcome Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+Welcome+to+my+GitHub+Profile!+👋;I'm+Manikiran+Jangili+🚀;A+Passionate+Full+Stack+Developer+%7C+Software+Engineer+%7C+Cloud+Enthusiast+☁️" alt="Welcome Animation" />
+</h1>
+
+---
+
 ## 👨‍💻 About Me  
 Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Software Engineer dedicated to building scalable and secure systems.  
 
