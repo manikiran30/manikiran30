@@ -65,9 +65,7 @@ Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Softwa
 5. ![Trophy](https://github-profile-trophy.vercel.app/?username=manikiran30&theme=dracula&margin-w=10)
 6. ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manikiran30&theme=github-dark)
 7. ![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-8. ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-9. ![Metrics](https://github.com/metrics-lecoq/metrics/blob/master/github-metrics.svg)
-10. ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=600&lines=Building+beautiful+digital+solutions;Crafting+secure+and+scalable+apps;Exploring+cloud+and+automation)
+8. ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=600&lines=Building+beautiful+digital+solutions;Crafting+secure+and+scalable+apps;Exploring+cloud+and+automation)
 
 ---
 
