@@ -56,7 +56,13 @@ Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Softwa
 [![LeetCode Stats](https://leetcard.jacoblin.cool/manikiran_30?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/manikiran_30)
 
 ### 💻 GeeksforGeeks Profile  
-[![GFG Stats](https://github-readme-stats.vercel.app/api?username=manikirandp51&custom_title=GeeksforGeeks%20Stats&show_icons=true&theme=react)](https://auth.geeksforgeeks.org/user/manikirandp51)
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/manikirandp51/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
+  </a>
+</p>
+
+📊 [Visit My GFG Profile →](https://www.geeksforgeeks.org/user/manikirandp51/)
 
 ---
 
@@ -77,10 +83,6 @@ Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Softwa
 5. ![Trophy](https://github-profile-trophy.vercel.app/?username=manikiran30&theme=dracula&margin-w=10)
 6. ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=manikiran30&theme=github-dark)
 7. ![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-8. ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-9. ![Metrics](https://github.com/metrics-lecoq/metrics/blob/master/github-metrics.svg)
-10. ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&width=600&lines=Building+beautiful+digital+solutions;Crafting+secure+and+scalable+apps;Exploring+cloud+and+automation)
-
 ---
 
 ⭐ *“Code. Create. Secure. Scale.”*  
