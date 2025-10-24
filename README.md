@@ -1,7 +1,5 @@
-<!-- Hi Welcome Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi%2C+Welcome+to+my+GitHub+Profile!+👋;I'm+Manikiran+Jangili+🚀;A+Passionate+Full+Stack+Developer+%7C+Software+Engineer+%7C+Cloud+Enthusiast+☁️" alt="Welcome Animation" />
-</h1>
+<h1 align="center">Hi 👋, I'm Manikiran Jangili</h1>
+<h3 align="center">A Passionate Full Stack Developer | Software Engineer | Cloud Enthusiast ☁️</h3>
 
 ---
 
