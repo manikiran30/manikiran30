@@ -20,18 +20,9 @@ Hi, I'm **Manikiran Jangili** — a Computer Science student and aspiring Softwa
 ---
 
 ## 🧰 Tech Stack  
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,java,flask,docker,aws,git,linux&perline=6" />
+</p>
 
 ---
 
